@@ -1,5 +1,5 @@
 {
-  "name": "___PROJECT_NAME___",
+  "name": "fusionsecurity.co",
   "private": true,
   "version": "0.0.1",
   "description": "___PROJECT_NAME___",
@@ -17,6 +17,17 @@
     "@ionic/core": "4.0.0-beta.16"
   },
   "devDependencies": {
-    "@stencil/core": "0.15.2"
-  }
+    "@stencil/core": "0.15.2",
+    "workbox-build": "3.4.1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-pwa-toolkit.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-pwa-toolkit/issues"
+  },
+  "homepage": "https://github.com/ionic-team/ionic-pwa-toolkit#readme"
 }
